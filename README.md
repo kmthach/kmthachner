@@ -121,9 +121,9 @@ Back-end is built based on [FastAPI](https://fastapi.tiangolo.com/) - A Modern W
 
 ---
 
-**Documentation**: [https://github.com/kmthach/kmthachner/docs](https://github.com/kmthach/kmthachner/docs)
+**Documentation**: [https://github.com/kmthach/kmthachner/tree/main/docs](https://github.com/kmthach/kmthachner/tree/main/docs)
 
-**Source Code**: [https://github.com/kmthach/kmthachner/tree/main/kmthachner](https://github.com/kmthach/kmthachner/tree/main/docs)
+**Source Code**: [https://github.com/kmthach/kmthachner/tree/main/kmthachner](https://github.com/kmthach/kmthachner/tree/main/kmthachner)
 
 ---
 ## Models Evaluation Results
