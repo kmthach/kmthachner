@@ -53,6 +53,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install kmthach
 pip install kmthachner
 ```
 
+### Download GloVe pretrain
+After installation, you have to download the [glove.6B.zip](https://nlp.stanford.edu/data/glove.6B.zip) then extract it to get the file name glove.6B.100d.txt.
+
+Then copy the file glove.6B.100d.txt to kmthachner/modules/pretrain in Python package directory on your PC.
+
 ## Usage
 
 ### For Initialize a Server
