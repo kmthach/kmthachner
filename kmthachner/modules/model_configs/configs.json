@@ -1,0 +1,37 @@
+{
+    "base": {
+        "use_char_level_embedding": false,
+        "use_casing_feature": false,
+        "use_crf": false
+    },
+    "base + cnns_embed": {
+        "use_char_level_embedding": "CNN",
+        "use_casing_feature": false,
+        "use_crf": false
+    },
+    "base + lstm_embed": {
+        "use_char_level_embedding": "LSTM",
+        "use_casing_feature": false,
+        "use_crf": false
+    },
+    "base + cnns_embed + casing": {
+        "use_char_level_embedding": "CNN",
+        "use_casing_feature": true,
+        "use_crf": false
+    },
+    "base + lstm_embed + casing": {
+        "use_char_level_embedding": "LSTM",
+        "use_casing_feature": true,
+        "use_crf": false
+    },
+    "base + cnns_embed + casing + crf": {
+        "use_char_level_embedding": "CNN",
+        "use_casing_feature": true,
+        "use_crf": true
+    },
+    "base + lstm_embed + casing + crf": {
+        "use_char_level_embedding": "LSTM",
+        "use_casing_feature": true,
+        "use_crf": true
+    }
+}

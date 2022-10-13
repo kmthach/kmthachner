@@ -1,0 +1,3 @@
+MODEL_MODE = 5
+USE_GPU = 1
+PORT = 5000
