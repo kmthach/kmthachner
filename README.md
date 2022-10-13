@@ -175,6 +175,15 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://127.0.0.1:5000 (Press CTRL+C to quit)
 ```
+Then, open the local host address ( Example: http://127.0.0.1:5000/docs#/default) in your browser to test the server.
+
+![Step 1](https://github.com/kmthach/kmthachner/tree/main/images/step1.jpg)
+
+To post a requests click on POST > Change the json file as below:
+![Step 2][https://github.com/kmthach/kmthachner/tree/main/images/step2.jpg)
+
+Finally, click Execute to get the predictions:
+![Step 3][https://github.com/kmthach/kmthachner/tree/main/images/step3.jpg)
 ### For Make Predictions
 ```python
 from kmthachner.api import predictor
