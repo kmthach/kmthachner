@@ -79,7 +79,7 @@ Then, open the local host address ( Example: http://127.0.0.1:5000/docs#/default
 
 ![Step 1](images/step1.jpeg)
 
-To post a requests click on POST > Change the json as below:
+To post a requests click on POST > Try it out > Change the json as below:
 
 ![Step 2](images/step2.png)
 
