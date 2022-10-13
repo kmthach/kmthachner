@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # kmthachner: Named Entity Regconition API
 
 kmthachner is a Python-based product serve  API to create a **Local Host Server** implement **Named Entity Recognition** task in Natural Language Processing (NLP).
@@ -212,4 +212,4 @@ Please make sure to update tests as appropriate.
 Pay attention: please replace the glove.6B.100d.txt file with the file in [glove.6B.zip](https://nlp.stanford.edu/data/glove.6B.zip).
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> fbe5abdcd8c77ba5fa8ac7a0a825997f08759fb6
+
